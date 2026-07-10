@@ -1,0 +1,1 @@
+No Negative Weighted Cycle detected
